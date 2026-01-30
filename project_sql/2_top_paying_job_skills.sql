@@ -1,3 +1,4 @@
+-- Query to find the top 10 highest paying 'Data Analyst' jobs in 'Anywhere' location along with their required skills
 
 With top_paying_jobs As(
 SELECT job_id, job_title, 
