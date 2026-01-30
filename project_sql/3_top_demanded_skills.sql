@@ -1,4 +1,4 @@
--- This query retrieves the top 5 most demanded skills for remote Data Analyst positions.
+-- This query retrieves the top 5 most demanded skills for remote Data Analyst positions
 
 SELECT skills,
 count(skills_job_dim.job_id) as demand_count
