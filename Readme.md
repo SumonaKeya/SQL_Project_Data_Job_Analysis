@@ -73,7 +73,7 @@ Easily can see that-
 
 ## 5.Demand vs. Salary: Which Skills Offer the Best Balance?
 
-![Top Paying Roles](images/demand_vs_salary_chart%20.png)
+![Top Paying Roles](images/demand_vs_salary_chart.png)
 
 * Shows how each skill ranks in demand vs. salary, revealing which tools offer the best balance of market need and earning potential.
 
